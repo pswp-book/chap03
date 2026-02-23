@@ -1,4 +1,4 @@
-# Problem Solving with Python — Chapter YY: ZZ
+# Problem Solving with Python — Chapter 3: Replace Text with Emoji
 
 This repository contains the chapter and active-learning exercise code associated with this chapter in the book *Problem Solving with Python: Using Computational Thinking in Everyday Life* by Michael D. Smith (2026), which is available from [MIT Press](https://mitpress.mit.edu/9780262383677/problem-solving-with-python/) and [Amazon](https://www.amazon.com/Problem-Solving-Python-Computational-Thinking/dp/0262552841/).
 
@@ -19,8 +19,8 @@ If you're using GitHub Codespaces, click the green "Code" button on this repo's 
 Otherwise, in your IDE's terminal window, type the following commands:
 
 ```bash
-git clone https://github.com/pswp-book/chapYY.git
-cd chapYY
+git clone https://github.com/pswp-book/chap03.git
+cd chap03
 ```
 
 ## (Optional) Create and activate a virtual environment
